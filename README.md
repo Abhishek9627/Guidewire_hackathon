@@ -100,12 +100,13 @@ Average earnings
 Determines payout instantly
 
 ⚙️ System Architecture
+![Architecture](./images/architecture.png)
 
 📌 (Insert Architecture Diagram Image Here)
 👉 
 🔄 System Workflow
 
-📌 (Insert Workflow Diagram Here)
+📌 
 
 ![Workflow](./images/workflow.png)
 🎯 Demo Scenario
