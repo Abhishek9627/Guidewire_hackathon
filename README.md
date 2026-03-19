@@ -102,13 +102,13 @@ Determines payout instantly
 ⚙️ System Architecture
 ![Architecture](./images/architecture.png)
 
-📌 (Insert Architecture Diagram Image Here)
+
 👉 
 🔄 System Workflow
 
-📌 
+📌 ![Workflow](./images/System_workflow.png)
 
-![Workflow](./images/workflow.png)
+
 🎯 Demo Scenario
 
 Step-by-step execution:
@@ -125,9 +125,9 @@ Claim auto-approved ✅
 
 Instant payout 💸
 
-📌 (Insert Demo Diagram Here)
+📌 ![Demo Scenario](./images/SystemWorkflow.png)
 
-![Demo Scenario](./images/demo.png)
+
 📊 Market Opportunity
 
 🇮🇳 8+ million gig workers in India
@@ -192,9 +192,9 @@ Commission via payment gateway
 
 Scalable B2B2C model
 
-📌 (Insert Business Model Diagram Here)
+📌 ![Business Model](./images/business_Model.png)
 
-![Business Model](./images/business.png)
+
 🧠 Tech Stack (Customize if needed)
 
 AI/ML → Risk Prediction
